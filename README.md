@@ -15,14 +15,14 @@ Step 2 : Open the terminal and install the GCC compiler in your MacOS
          
          brew install gcc
 
-Step 2 : Go to the given directory by typing the following commands in your terminal 
+Step 3 : Go to the given directory by typing the following commands in your terminal 
 
          cd ~ 
          cd /usr/local/include
          mkdir bits
          cd bits 
 
-Step 3 : Now that you are in the bits directory, copy the above contents in the stdc++.h file inside the directory by creating a new file using the following commands. 
+Step 4 : Now that you are in the bits directory, copy the above contents in the stdc++.h file inside the directory by creating a new file using the following commands. 
 
          sudo nano stdc++.h
          copy paste the contents 
