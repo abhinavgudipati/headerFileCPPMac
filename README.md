@@ -15,7 +15,7 @@ Step 2 : Open the terminal and install the GCC compiler in your MacOS
          
          brew install gcc
 
-Step 3 : Go to the given directory by typing the following commands in your terminal 
+Step 3 : Go to the given directory by typing the following commands in your terminal, here we create a directory called bits using the mkdir command. 
 
          cd ~ 
          cd /usr/local/include
@@ -28,4 +28,11 @@ Step 4 : Now that you are in the bits directory, copy the above contents in the 
          copy paste the contents 
 
 Now your cpp file is ready for compilation. 
-         
+
+In theory each time you mention 
+
+         #include<bits/stdc++.h> 
+
+We go directly to the directory that we previously created in Step 3, and access the contents of that particular directory. 
+
+Have fun coding in Cpp! 
